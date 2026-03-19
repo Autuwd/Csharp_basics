@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeiJu", "Csharp_basics\MeiJu.csproj", "{CA5410D5-8BF3-4F78-94BD-734EB1900D49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeiJu", "MeiJu\MeiJu.csproj", "{CA5410D5-8BF3-4F78-94BD-734EB1900D49}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShuZu", "ShuZu\ShuZu.csproj", "{75C68C07-A57E-420A-A9DA-C6484CBD2694}"
 EndProject
